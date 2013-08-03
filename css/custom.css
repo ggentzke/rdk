@@ -22,6 +22,12 @@ ul li{
 header .tag-line{
   width: 300px;
 }
+ul#robot-nav > li > a{
+  color: #de270f;
+}
+ul#robot-nav > li > a:hover{
+  color: #fff;
+}
 
 footer {
   margin-top: 40px;
@@ -48,6 +54,6 @@ footer .rocket-logo img {
   color: #8A1000;
 }
 
-.space {
-  padding: 10px;
+.spacer {
+  margin-top: 30px;
 }
