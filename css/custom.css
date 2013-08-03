@@ -1,3 +1,40 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+a {
+  color: #de270f;
+}
+
+/* Custom container */
+.container-narrow {
+  margin: 0 auto;
+  max-width: 700px;
+}
+.container-narrow > hr {
+  margin: 30px 0;
+}
+ul li{
+  list-style: circle;
+}
+#footer {
+  margin-top: 40px;
+  color: #ccc;
+}
+#footer a{
+  color: #aaa;
+  text-decoration: none;
+}
+
+.hero-unit {
+  margin-top: 20px;
+}
+
+.shows-list a{
+  color: #8A1000;
+}
+
 .space {
   padding: 10px;
 }
