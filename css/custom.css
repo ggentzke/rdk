@@ -18,13 +18,26 @@ a {
 ul li{
   list-style: circle;
 }
-#footer {
-  margin-top: 40px;
-  color: #ccc;
+
+header .tag-line{
+  width: 300px;
 }
-#footer a{
+
+footer {
+  margin-top: 40px;
+}
+footer a{
   color: #aaa;
   text-decoration: none;
+}
+footer .rocket-logo {
+  left: 50%;
+  margin-left: -75px;
+  position: absolute;
+}
+footer .rocket-logo img {
+  height: 150px;
+  width: 150px;
 }
 
 .hero-unit {
