@@ -1,4 +1,6 @@
 body {
+  background-color: #282828;
+  color: #A0A0A0;
   padding-top: 20px;
   padding-bottom: 40px;
 }
@@ -48,6 +50,18 @@ footer .rocket-logo img {
 
 .hero-unit {
   margin-top: 20px;
+}
+
+iframe.bandcamp {
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe.youtube {
+  width: 700px;
+  height: 480px;
+  margin-bottom: 25px;
 }
 
 .shows-list a{
